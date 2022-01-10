@@ -175,7 +175,7 @@ else:
     print(" on telegram ----@RXCE_HACKING for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     300 INR -------  Day (30 Games")
-    print(" 2.    2500 INR -------  10 Days(300 Games")
+    print(" 2.     2500 INR -------  10 Days(300 Games")
     print("*---------*----------*-------------*----------*")
     print("Your custom hack can be made request from us.")
 
